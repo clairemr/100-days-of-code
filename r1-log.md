@@ -10,3 +10,6 @@ Started following tutorial on memory game.
 JS script needs to be at the end of the page
 
 ### R1D2
+Finished first version of memory game, pretty happy with the basic concept
+Still want to add a restart game button and a win message
+Got stuck for a bit because I didn't realise Javascript doesn't load in order, so the timeout was messing me up
