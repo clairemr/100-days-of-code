@@ -13,3 +13,17 @@ JS script needs to be at the end of the page
 Finished first version of memory game, pretty happy with the basic concept
 Still want to add a restart game button and a win message
 Got stuck for a bit because I didn't realise Javascript doesn't load in order, so the timeout was messing me up
+
+### R1D3
+Started a new JS game that I'm building without a tutorial. Definitely much slower this way, but I'm finding out which bits I actually know
+Built up to the first loop checking whether blocks in the same row that touch are all the same colour, for loop is getting stuck halfway through
+
+### R1D4
+Fixed the for loop issue - use let variables and deleted the return that was breaking the loop
+Extended match function to also check columns
+Spent most of today trying to get the blocks to display properly, can't find a CSS float that pulls them to the bottom
+Decided to switch tactics and just swap colours on existing divs, then hide the top one - finishing that will be tomorrow's project
+
+### R1D5
+Fixed the colour swapping for the top blocks of the column
+Still having issues with the bottom block of the column not disappearing reliably or changing the colours so they don't match properly - tomorrow I'll build a proper check for whether a block is the last one in the column
