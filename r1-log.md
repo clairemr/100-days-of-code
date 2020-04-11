@@ -27,3 +27,9 @@ Decided to switch tactics and just swap colours on existing divs, then hide the 
 ### R1D5
 Fixed the colour swapping for the top blocks of the column
 Still having issues with the bottom block of the column not disappearing reliably or changing the colours so they don't match properly - tomorrow I'll build a proper check for whether a block is the last one in the column
+
+### R1D6
+Fixed colour matching - sort() function needed to know what to sort by (div id)
+Updated CSS to have 10x12 grid and percentages, instead of fixed px. Might change back though
+Updated scoring system to include bonuses, and show on the screen
+Tomorrow: minimise empty columns to pull them together
