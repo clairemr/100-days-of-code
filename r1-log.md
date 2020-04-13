@@ -33,3 +33,6 @@ Fixed colour matching - sort() function needed to know what to sort by (div id)
 Updated CSS to have 10x12 grid and percentages, instead of fixed px. Might change back though
 Updated scoring system to include bonuses, and show on the screen
 Tomorrow: minimise empty columns to pull them together
+
+### R1D7
+Started playing with pulling columns together, didn't work the way I was hoping it would. Will come back to it tomorrow
