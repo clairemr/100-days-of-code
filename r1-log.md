@@ -36,3 +36,7 @@ Tomorrow: minimise empty columns to pull them together
 
 ### R1D7
 Started playing with pulling columns together, didn't work the way I was hoping it would. Will come back to it tomorrow
+
+### R1D8
+Converted game to table to avoid rearranging when shrinking columns
+Finished pulling columns together. Main game play is now finished, tomorrow I'll update scoring and add reset game & continue buttons. Potentially different levels and sizes
