@@ -40,3 +40,7 @@ Started playing with pulling columns together, didn't work the way I was hoping 
 ### R1D8
 Converted game to table to avoid rearranging when shrinking columns
 Finished pulling columns together. Main game play is now finished, tomorrow I'll update scoring and add reset game & continue buttons. Potentially different levels and sizes
+
+### R1D9
+Added reload buttons and levels
+Next session need to lastrow which isn't updating properly so shrink columns has issues in higher levels
